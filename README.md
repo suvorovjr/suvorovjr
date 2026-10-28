@@ -6,7 +6,7 @@ Python backend-разработчик. Основной стек — FastAPI. П
 
 Основное: FastAPI · Pydantic · SQLAlchemy · Alembic · PostgreSQL
 
-Также: Django · [Redis] · [Docker] · [pytest] · Git · Linux
+Также: Django · Redis · Docker · pytest · Git · Linux
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,django,redis,docker,git,linux,js&perline=9" alt="skills"/> </p>
 🐍 Моя активность
